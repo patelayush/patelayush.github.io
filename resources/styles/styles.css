@@ -1,0 +1,105 @@
+html {
+	scroll-behavior: smooth;
+}
+#about-me {
+	margin-top: 90px;
+}
+/*
+@media (min-width: 768px) {
+	.my-img {
+		height: 500px;
+		width: 400px;
+	}
+	
+}*/
+
+.section-text-style {
+	text-decoration: none;
+	color: #343a40!important;	
+}
+
+.float-right {
+	float: right;
+}
+
+.main-color {
+	color: #343a40!important;
+}
+
+.text-color {
+	color: #00BCD4;
+}
+
+.text-size {
+	font-size: 22px;
+}
+
+.skills {
+	list-style-type: none;
+	padding: 0px;
+	box-shadow: 7px -6px 7px rgb(0,0,0,0.2);
+}
+
+.skills-header {
+	border: 1px solid #343a40;
+	padding: 10px;
+	background-color: #343a40;
+	color: #fff;
+}
+
+.skills-header-items {
+	border: 1px solid #343a40;
+	padding: 10px;
+}
+
+.skills li:last-child {
+	border-bottom: 2px solid #343a40;
+}
+
+.fb-color {
+	color: #3C5A99;
+}
+
+.twitter-color {
+	color: #1da1f2;
+}
+
+.linkedin-color {
+	color: #0077B5;
+}
+
+.github-color {
+	color: #333;
+}
+
+.quora-color {
+	color: #a82400;
+}
+
+.stack-overflow-color {
+	color: #f48024;
+}
+
+.footer-container {
+	padding: 10px;
+}
+
+.footer-color {
+	color: #fff;
+}
+
+.a-style-company {
+
+}
+
+.a-style-company:hover {
+	
+}
+
+.mb-style, .project-role-mb {
+	margin-bottom: 0.5rem;
+}
+
+.project-row-mb {
+	margin-bottom: 10px;
+}
