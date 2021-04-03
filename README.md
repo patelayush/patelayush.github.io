@@ -1,6 +1,6 @@
 # Ayush Patel
 
-Hello ! I am a Graduate student pursuing Master's in Computer Science at The University of North Carolina at Charlotte.
-My past experience and projects inspire me to continue working in Mobile Application Development and Data Science.
-I love understanding technology, playing around with gadgets and that’s my motivation for coding.
-I enjoy taking on challenges, finding creative ways to solve problems and possess the love for resolving the minutest bugs in the code.
+Hey! I am Mid Senior Level Software Engineer (Android) working at LendingTree since July 2019.
+During my Master's in Computer Science from The University of North Carolina at Charlotte, I got my inspiration to develop Mobile Applications.
+I have developed and designed a wide variety of apps ranging from social media, finance and accounting, to reservation applications.
+I love understanding technology, playing around with gadgets and enjoy taking on challenges to solve problems, that has been my motivation for coding.
